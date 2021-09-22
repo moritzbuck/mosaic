@@ -2,10 +2,11 @@
     {
         "root_folder"       : "/home/moritz/data/M001_MIME",
         "temp_folder"       : "/home/moritz/temp/",
-        "raw_folder"        : "/home/moritz/data/raw_data/mosaic/210723_A00605_0257_AHGVTVDSX2/",
+        "raw_folder"        : "/home/moritz/data/raw_data/mosaic/",
         "config_file"       : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_config.json",
         "libraries_file"    : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_libraries.csv",
         "assemblies_file"   : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_assemblies.csv",
         "binnings_file"     : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_binnings.csv",
-        "binsets_file"      : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_binsets.csv"
+        "binsets_file"      : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_binsets.csv",
+        "mappings_file"     : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_mappings.csv"
     }
