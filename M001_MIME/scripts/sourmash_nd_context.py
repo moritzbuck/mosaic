@@ -310,3 +310,6 @@ for f in cntxt.union(broad_cntxt):
 call(f"unpigz {context_folder}/*.gz", shell=True)
 for f in os.listdir(context_folder):
     shutil.move(pjoin(context_folder, f), pjoin(context_folder, f.replace(".fa", ".fna")))
+
+with open("/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_sample_data.json") as handle:
+    mosaic_md = json.load(handle)

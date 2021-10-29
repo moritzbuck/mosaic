@@ -8,5 +8,6 @@
         "assemblies_file"   : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_assemblies.csv",
         "binnings_file"     : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_binnings.csv",
         "binsets_file"      : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_binsets.csv",
-        "mappings_file"     : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_mappings.csv"
+        "mappings_file"     : "/home/moritz/projects/mosaic/M001_MIME/config_nd_metadata/M001_mappings.csv",
+        "gtdb_db_folder"    : "/home/moritz/dbs/release202/"
     }
